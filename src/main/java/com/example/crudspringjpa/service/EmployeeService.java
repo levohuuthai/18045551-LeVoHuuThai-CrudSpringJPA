@@ -1,10 +1,7 @@
 package com.example.crudspringjpa.service;
 
 import com.example.crudspringjpa.entity.Employee;
-import com.example.crudspringjpa.repository.EmployeeRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import java.util.List;
 
 @Service
